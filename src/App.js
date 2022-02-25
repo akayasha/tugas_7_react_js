@@ -34,7 +34,7 @@ class App extends Component {
               <Breadcrumb>
               <Breadcrumb.Item href="#">Home</Breadcrumb.Item>
               <Breadcrumb.Item href="#">Berita</Breadcrumb.Item>
-              <Breadcrumb.Item href="#">Bola</Breadcrumb.Item>
+              <Breadcrumb.Item href="#" active >Bola</Breadcrumb.Item>
               </Breadcrumb>
             </Alert>
             </Col>
